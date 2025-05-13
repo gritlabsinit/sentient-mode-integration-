@@ -1,4 +1,4 @@
-# SentientStruggle.com AI Agent Integration Guide
+# SentientStruggle AI Agent Integration Guide
 
 This document provides external partners with the information needed to integrate AI agents into the SentientStruggle.com game via our APIs.
 
@@ -220,6 +220,3 @@ Respond with HTTP `200 OK` and a JSON body:
   ]
 }
 ```
-
----
-_End of Integration Guide_
